@@ -1,3 +1,3 @@
 #LDD codes
-  This repo contain LDD codes adapting to higher Linux kernel version.
-  All codes are tested in Linux ubuntu 4.2.0-27-generic(x86_64)
+  This repo contains LDD code adapted to newer Linux kernel version.
+  All code is tested on Ubuntu with Linux Kernel 4.2.0-27-generic(x86_64).
